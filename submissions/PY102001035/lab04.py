@@ -85,7 +85,7 @@ def print_all_nodes(root: TreeNode) -> None:
     all_nodes = preorder(root)
     for node in all_nodes:
         print(node)
-    # raise NotImplementedError("Implement Q2 here.")
+    raise NotImplementedError("Implement Q2 here.")
 
 
 # -------------------------
