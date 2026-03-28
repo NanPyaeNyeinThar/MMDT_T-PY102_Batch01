@@ -121,7 +121,7 @@ def find_py_files(root: TreeNode) -> list[str]:
     return py_files
     raise NotImplementedError("Implement Q3 here.")
 
-myNode = build_submission_tree("submissions","PY102001035", "PY102001036")
-print_all_nodes(myNode)
-allFiles = find_py_files(myNode)
-print(allFiles)
+# myNode = build_submission_tree("submissions","PY102001035", "PY102001036")
+# print_all_nodes(myNode)
+# allFiles = find_py_files(myNode)
+# print(allFiles)
